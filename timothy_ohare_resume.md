@@ -1,6 +1,6 @@
 
 
-# ‍Timothy O'Hare
+# Timothy O'Hare
 
 +61 421 325 227 | timohare@gmail.com | Melbourne, VIC, Australia
 
