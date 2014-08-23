@@ -24,13 +24,13 @@ Web application development providing a consistent user experience (UX), the req
 
 # Education
 
-- Bachelor of Engineering (Electrical) |University of Sydney | 2001
-- Bachelor of Science (Computer Science and pure mathematics) |University of Sydney | 1997
+- Bachelor of Engineering (Electrical) | University of Sydney | 2001
+- Bachelor of Science (Computer Science and pure mathematics) | University of Sydney | 1997
 - ScrumMaster, W3C JavaScript, ITILv3, CCNA
 
 # Professional Experience
 
-## Principal Advisor – mine automation system | Rio Tinto | 2011 – 2014
+## Principal Advisor – Mine Automation System | Rio Tinto | 2011 – 2014
 
 Manage a team of senior automation and software engineers. Liaise, direct and coordinate partner universities, product group stakeholders, operators and third party vendors.
 
@@ -63,7 +63,7 @@ Provided sophisticated explosive recipe recalculation based on the latest geolog
 
 Achieved a saving of over $1 million per year in reduced explosives usage and reduced oversize ore entering the crusher.
 
-## TEAM LEADER – SOFTWARE DEVELOPMENT |PTS |2007 – 2011
+## Team Leader – Software Development | PTS | 2007 – 2011
 
 PTS (Patrick Technology Services) provides automation services to Patrick, the largest stevedore in Australia. The container port in Brisbane is automated with twenty three [AutoStrads](http://www.patrick.com.au/brisbane-autostrad-terminal/w1/i1001395/) moving containers with in the yard autonomously.
 
@@ -82,7 +82,7 @@ As a team lead, I led a team of six.
 - Closely worked with the terminal management and users
 - Exceeded targets and requirements in functionality, visualisation, accuracy, yard fault identification and rectification. 
 
-### Senior Software Engineer |Infostream |2004 – 2007
+## Software Engineer | Infostream | 2004 – 2007
 
 ### Financial data feed delivery to mobile devices
 
@@ -94,7 +94,7 @@ As a team lead, I led a team of six.
 - Transformed a poorly performing existing customer management application from ASP and Microsoft Access to Ruby on Rails and PostgreSQL 
 - Achieved faster performance (1 min -> 5 second updates) and significantly increased uptime
 
-Software Engineer |Platypus |2000 – 2004
+## Software Engineer | Platypus | 2000 – 2004
 
 ### RAM based solid state hard drives
 
